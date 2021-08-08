@@ -1,2 +1,2 @@
-# musica-player
+# music-player
 MUSIC PLAYER UI
